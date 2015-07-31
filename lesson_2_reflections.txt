@@ -14,5 +14,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 Answer: help exploring new features of program while testing it out
 
+How do the diagrams help you visualize the branch structure?
+
+Answer: diagrams show a more clear picture
+
 
 
