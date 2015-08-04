@@ -22,5 +22,9 @@ What is the result of merging two branches together?Why do we represent it in th
 
 Answer: branch1 will be part of branch2’s path.
 
+What are the pros and cons of the Git’s automatic merging vs. always doing merges manually?
+
+Answer: Git runs easy and fast on the simple cases; but if both branches changes the same line of code, the programmer needs to check by hand.
+
 
 
